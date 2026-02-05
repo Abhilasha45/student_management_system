@@ -14,7 +14,7 @@ A simple console-based Student Management System built using Python.
  ## How to Run
  1. Download or clone the repository
  2. Open terminal in the project folder
- 3. Run:
+ 3. Run :
     python main.py 
 
 
